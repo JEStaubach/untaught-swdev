@@ -11,6 +11,7 @@
    1. Debugging
    1. Keybindings
    1. Workspace Settings
+   1. Auto-Formatting
 1. Version Control
    1. Workflow
    1. Distributed Version Control
@@ -23,6 +24,7 @@
 1. Build Scripts
 1. Type Checking
 1. Linting
+   1. Style Guides
 1. Transpiling
 1. Minifying
 1. Dev Server
@@ -32,4 +34,8 @@
    1. Compatiblity
    1. UI Testing
 1. Project Structure
-
+1. Continuous Integration
+1. Dependency Monitoring
+1. Modules
+1. Publishing
+1. Boilerplates
