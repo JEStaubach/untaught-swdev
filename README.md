@@ -17,6 +17,7 @@
    1. Distributed Version Control
    1. Open Source Collaboration
    1. Semantic Versioning
+   1. Hooks
 1. Package Management
 1. Package Definition
 1. Dependencies
@@ -45,3 +46,6 @@
 1. Badges
 1. Documentation
 1. Boilerplates
+1. Logging
+1. Monitoring
+1. Deployment
