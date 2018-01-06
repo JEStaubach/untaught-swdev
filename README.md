@@ -1,1 +1,26 @@
 # untaught-swdev
+
+## Outline
+1. Introduction
+1. Text Editors and IDEs
+   1. Syntax Highlighting
+   1. Linting
+   1. Type Checking
+   1. Version Control Integration
+   1. Intellisense
+   1. Debugging
+   1. Keybindings
+   1. Workspace Settings
+1. Version Control
+   1. Workflow
+   1. Distributed Version Control
+   1. Open Source Collaboration
+   1. Semantic Versioning
+1. Type Checking
+1. Linting
+1. Unit Testing
+1. Transpiling
+1. Minifying
+1. Dev Server
+1. Broswer Plugins
+1. 
